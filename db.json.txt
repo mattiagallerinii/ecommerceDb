@@ -1,0 +1,20 @@
+{
+  "prodotti": [
+    {
+      "nome": "Prodotto 1",
+      "descrizione": "Descrizione del Prodotto 1"
+    },
+    {
+      "nome": "Prodotto 2",
+      "descrizione": "Descrizione del Prodotto 2"
+    },
+    {
+      "nome": "Prodotto 3",
+      "descrizione": "Descrizione del Prodotto 3"
+    },
+    {
+      "nome": "Prodotto 4",
+      "descrizione": "Descrizione del Prodotto 4"
+    }
+  ]
+}
