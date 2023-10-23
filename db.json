@@ -1,20 +1,20 @@
 {
   "prodotti": [
     {
-      "nome": "Prodotto 1",
-      "descrizione": "Descrizione del Prodotto 1-"
+      "nome": "T-Shirt con Stampa",
+      "descrizione": "100% Cotone (in grigio melange: 90% cotone, 10% poliestere)"
     },
     {
-      "nome": "Prodotto 2",
-      "descrizione": "Descrizione del Prodotto 2-"
+      "nome": "Felpa con Stampa",
+      "descrizione": "100% Cotone (in grigio melange: 90% cotone, 10% poliestere)"
     },
     {
-      "nome": "Prodotto 3",
-      "descrizione": "Descrizione del Prodotto 3-"
+      "nome": "Scarpe Nike Uomo",
+      "descrizione": "Sneakers da ginnastica (bianche/nere)"
     },
     {
-      "nome": "Prodotto 4",
-      "descrizione": "Descrizione del Prodotto 4-"
+      "nome": "Scarpe Nike Uomo",
+      "descrizione": "Sneakers da ginnastica (bianche/viola)"
     }
   ]
 }
